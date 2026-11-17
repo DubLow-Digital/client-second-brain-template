@@ -1,20 +1,23 @@
 # Compliance and Dates
 
-Every deadline in one place. Check here before promising a date.
+Every registration, renewal and campaign date in one place. Check here before promising a date.
 
 | Due date | Item | Who handles it | Reminder set | Status | Notes |
 |---|---|---|---|---|---|
-| | Annual report | | | | |
-| | Registered agent renewal | | | | |
-| | Business license renewal | | | | |
-| | Insurance renewal | | | | |
-| | Quarterly estimated taxes | | | | |
-| | Payroll tax filings | | | | |
-| | Quarterly CFO review | | | | |
-| | Business credit vendor payments | | | | |
+| | A2P registration (brand and campaign) | | | | |
+| | Domain renewal | | | | |
+| | Hosting / SSL renewal | | | | |
+| | Google Business Profile verification | | | | |
+| | Email domain DNS (SPF, DKIM, DMARC) verified | | | | |
+| | DubLow service agreement renewal | | | | |
+| | Next email / SMS campaign send | | | | |
+| | Review request campaign start | | | | |
+| | Ad budget approval | | | | |
+| | Monthly report due | | | | |
+| | Managed IT renewal / security review | | | | |
 
-## Industry-specific dates
-<Add rows from any industry add-on, e.g. trucking compliance dates.>
+## Client-specific rules
+<Industry rules that affect marketing, e.g. medical, legal or financial advertising limits, consent requirements, opt-in wording. Note the rule and who confirmed it; this is not legal advice.>
 
 ## Rules
 - The CRM calendar holds the reminders. This table is the readable copy.

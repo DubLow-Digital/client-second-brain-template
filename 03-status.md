@@ -20,8 +20,8 @@
 
 ## Waiting on
 - Client: 
-- Third party: 
-- Whitelow team: 
+- Third party (carrier, Google, Meta, registrar): 
+- DubLow team: 
 
 ## Risks
 - 

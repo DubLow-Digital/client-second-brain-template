@@ -2,7 +2,7 @@
 
 - **Date:** YYYY-MM-DD
 - **Attendees:** 
-- **Type:** <kickoff / check-in / CFO review / other>
+- **Type:** <kickoff / check-in / strategy / monthly report / other>
 - **Recording or notes link:** 
 
 ## Agenda
@@ -22,3 +22,6 @@
 ## After the meeting
 - [ ] Added a line to `04-log.md`
 - [ ] Updated `03-status.md` and `09-open-items.md`
+- [ ] Created the tasks in Planner / Notion
+- [ ] Recap drafted for the client (not sent until approved)
+- [ ] Synced the brain to SharePoint

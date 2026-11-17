@@ -12,10 +12,10 @@
 |---|---|---|---|
 | | | | |
 
-## Needs attorney
+## Needs client approval
 - 
 
-## Needs CPA
+## Needs DubLow lead
 - 
 
 ## Questions for the team
