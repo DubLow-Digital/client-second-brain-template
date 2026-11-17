@@ -15,6 +15,28 @@ No downloads. No installs. You need two things: a free GitHub account and Ask AI
 
 After that, in your project, just work normally. At the end of a session the AI saves what it learned into your brain repo.
 
+## Joining an existing brain (teammates and helpers)
+
+Use this if someone else already created the brain and you are **joining it**: a teammate, a helper, or the DubLow Digital team. Do **not** run the setup prompt above; that would create a second, empty brain.
+
+**Before you start**
+
+1. Ask the brain's owner to add your GitHub username as a collaborator on their private `brain-<business>` repo (repo Settings → Collaborators), then accept the invite from your email or GitHub notifications.
+2. Connect **your own GitHub** to **your own Ask AI** (Connectors). Allow it to read repositories (and to write, if you will be saving updates).
+3. Get the exact repo name from the owner, for example `glo-ocala-owner/brain-glo-ocala`.
+
+**Paste this into Ask AI** (replace the repo name) and press send:
+
+> Connect me to an existing second brain. The brain is the private GitHub repo `<owner>/brain-<business>`. Do this: (1) Check you can read that repo with my connected GitHub. If you cannot, tell me exactly what access I need to ask the owner for, and stop. (2) Read `index.md`, `03-status.md` and `09-open-items.md` from that repo and tell me in three sentences where things stand. (3) Read the short version in `AGENTS.md` of `DubLow-Digital/client-second-brain-template`, fill in this brain's repo name, and give me the finished text to paste into the instructions of a new Ask AI project. Do not change anything in the repo.
+
+**Then**
+
+- Create a **new Ask AI project** and paste the instructions it gave you.
+- Start a chat inside that project. It will read the brain at the start of every session and, at the end, offer to save what it learned (after showing you the changes and getting your yes).
+- If the brain is mostly empty, say "run the interview skill" and it will use `skills/client-brain-interview/SKILL.md` from this template.
+
+Everything the AI learns is saved to the one shared brain repo, so every teammate's project stays in sync.
+
 ## How it works
 
 | Piece | Where it lives | What it does |
