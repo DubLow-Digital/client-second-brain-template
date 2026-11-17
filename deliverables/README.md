@@ -1,7 +1,7 @@
 # Deliverables
 
-Index of finished documents. Files live in the client's SharePoint folders (Documents > DubLow Company Drive > 2. Clients > <Client Folder>: Brand, Digital Marketing Services, Managed IT, Operations, Agreements). This table is the map.
+Index of finished documents. The files live wherever the business stores documents (link each one). This table is the map.
 
-| Date | Document | Service | Version | SharePoint location | Delivered to client |
+| Date | Document | Service | Version | Link or location | Delivered to client |
 |---|---|---|---|---|---|
 | | | | | | |

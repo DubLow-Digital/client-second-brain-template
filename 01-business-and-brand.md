@@ -2,10 +2,11 @@
 
 ## What they sell
 - Core offer(s): 
-- Price range: 
+- Price range / typical sale value: 
 - Who buys it (ideal customer): 
+- Worst-fit customer: 
 - Main competitors they mention: 
-- What makes them different (unique selling point): 
+- What makes them different (unique selling point and proof): 
 
 ## Goals
 - 90 days: 
@@ -15,11 +16,11 @@
 ## Brand
 | Item | Value |
 |---|---|
-| Brand Voice and Identity document | SharePoint > <Client Folder> > Brand (link) |
+| Brand Voice and Identity document | Link: |
 | Brand colors | |
 | Fonts | |
-| Logo location | SharePoint > <Client Folder> > Brand |
-| Tone of voice | |
+| Logo location | Link: |
+| Tone of voice (three words) | |
 | Words they use | |
 | Words to avoid | |
 
@@ -30,6 +31,9 @@
 - Other social accounts: 
 - Funnel / landing pages: 
 - Review links and QR codes: 
+
+## Customer questions and objections (in their words)
+- 
 
 ## Notes for writing in their voice
 <Examples of how they talk. Paste a few short approved lines.>

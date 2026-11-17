@@ -1,6 +1,6 @@
-# Billing and Retainer Snapshot
+# Billing and Results Snapshot
 
-Plain-English picture only. No card, bank or account numbers. Invoices and agreements stay in the billing system and SharePoint.
+Plain-English picture only. No card, bank or account numbers. Invoices and agreements stay in the billing system and document storage.
 
 **Last updated:** YYYY-MM-DD
 
@@ -26,6 +26,6 @@ Plain-English picture only. No card, bank or account numbers. Invoices and agree
 <Two or three sentences a client would understand.>
 
 ## Where the documents are
-- Agreement: SharePoint > <Client Folder> > Agreements
-- Monthly reports: SharePoint > <Client Folder> > Digital Marketing Services
+- Agreement: link
+- Monthly reports: link
 - Last refresh: YYYY-MM-DD

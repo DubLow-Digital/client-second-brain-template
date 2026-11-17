@@ -22,6 +22,4 @@
 ## After the meeting
 - [ ] Added a line to `04-log.md`
 - [ ] Updated `03-status.md` and `09-open-items.md`
-- [ ] Created the tasks in Planner / Notion
-- [ ] Recap drafted for the client (not sent until approved)
-- [ ] Synced the brain to SharePoint
+- [ ] Recap drafted (not sent until approved)

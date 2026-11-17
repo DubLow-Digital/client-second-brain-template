@@ -28,13 +28,13 @@
 - Things they dislike: 
 - Things they love: 
 
-## DubLow team on this client
+## DubLow team on this client (if any)
 | Person | Responsible for |
 |---|---|
 | | Account lead |
 | | Growth / campaigns |
-| | Website and AI Studio |
-| | Managed IT (if purchased) |
+| | Website |
+| | Managed IT |
 
 ## Services purchased
 See `02-services-and-scope.md` for status.
